@@ -15,16 +15,11 @@ Welcome to **Intellicare**, the revolutionary platform transforming healthcare w
 
 <a name="Medichat"></a>
 
-https://github.com/user-attachments/assets/70cb5ebe-1ac7-4104-a813-37b70a329336
-
-
-
-
 # Demo
-(https://github.com/user-attachments/assets/078116b5-6692-4cc1-ba96-7c93d3ae2cea)
+https://github.com/user-attachments/assets/078116b5-6692-4cc1-ba96-7c93d3ae2cea
 
 # Workflow
-[Pictures/WorkFLow.png]
+![Work Flow](Pictures/WorkFLow.png)
 
 ## MediScan 💬💊
 **MediScan** enhances your medical experience by processing prescriptions and providing detailed information about medications using cutting-edge OCR technology and generative AI.
