@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/70cb5ebe-1ac7-4104-a813-37b70a329336
 ## WorkFlow
 
 
-![workflow](https://github.com/user-attachments/assets/ad363353-15a3-4f24-822b-8841f4f1a647)
+![workflow](https://github.com/user-attachments/assets/078116b5-6692-4cc1-ba96-7c93d3ae2cea)
 
 
 ## MediScan 💬💊
